@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ratna-saikiran
-- 👀 I’m interested in Optics and Photonics,Web Development
-- 🌱 I’m currently learning solar photovoltaics,Bootstrap,HTML ,CSS,JavaScript
 - 💞️ I’m looking to collaborate on building a website for my village
 - 📫 How to reach me saikiranratna@gmail.com
 
